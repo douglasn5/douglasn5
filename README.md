@@ -55,7 +55,7 @@ Atualmente meu foco é continuar construindo uma base sólida como desenvolvedor
 
 **Linguagens**
 
-<img src="https://skillicons.dev/icons?i=python,javascript,html,css" />
+<img src="https://skillicons.dev/icons?i=python,javascript,ts,angular,html,css" />
 
 <br><br>
 

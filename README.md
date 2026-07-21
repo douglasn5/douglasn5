@@ -11,8 +11,8 @@
 <a href="https://github.com/douglasn5">
   <img src="https://img.shields.io/badge/GitHub-douglasn5-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
-<a href="mailto:douglasn5.dev@gmail.com">
-  <img src="https://img.shields.io/badge/E--mail-Contato-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+<a href="mailto:douglasti097@gmail.com">
+  <img src="https://img.shields.io/badge/douglasti097@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 <img src="https://img.shields.io/badge/Aberto%20a%20oportunidades-26D0CE?style=for-the-badge&logo=target&logoColor=white">
 
@@ -45,6 +45,13 @@ Atualmente meu foco é continuar construindo uma base sólida como desenvolvedor
 
 ---
 
+### 🚀 Metas
+
+- **OCI** – Oracle Cloud Infrastructure Foundations Associate ✅
+- 📚 Concluir a formação em Análise e Desenvolvimento de Sistemas
+- 💼 Conquistar uma posição em TI com foco em Cloud/Suporte
+
+---
 
 ## 🛠️ Tecnologias & Ferramentas
 
@@ -210,6 +217,7 @@ da Inteligência Artificial Generativa
     <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/douglasn5/douglasn5/output/pacman-contribution-graph.svg">
 </picture>
 
+*(a imagem só aparece depois que o GitHub Action rodar pela 1ª vez — veja as instruções que te mandei junto com este README)*
 
 </div>
 

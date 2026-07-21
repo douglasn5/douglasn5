@@ -181,11 +181,6 @@ da Inteligência Artificial Generativa
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=douglasn5&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=86400"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=douglasn5&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
-
-<br>
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=douglasn5&theme=tokyonight&hide_border=true"/>
 
 </div>

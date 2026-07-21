@@ -2,18 +2,14 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A2980,100:26D0CE&height=220&section=header&text=Douglas%20Israel&fontSize=55&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Desenvolvedor%20em%20forma%C3%A7%C3%A3o%20%7C%20Cloud%20%7C%20Python%20%7C%20JavaScript&descAlignY=55&descSize=18" width="100%"/>
 
-<a href="https://cursos.alura.com.br/user/dbz10ssj5">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=26D0CE&center=true&vCenter=true&width=600&lines=Transformando+ideias+em+c%C3%B3digo+%F0%9F%92%BB;Aprendendo+Cloud+%26+Oracle+Infrastructure+%E2%98%81%EF%B8%8F;Sempre+evoluindo+como+dev+%F0%9F%9A%80" alt="Typing SVG" />
-</a>
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=26D0CE&center=true&vCenter=true&width=600&lines=Transformando+ideias+em+c%C3%B3digo+%F0%9F%92%BB;Aprendendo+Cloud+%26+Oracle+Infrastructure+%E2%98%81%EF%B8%8F;Sempre+evoluindo+como+dev+%F0%9F%9A%80" alt="Typing SVG" />
 
 <br>
 
 <a href="https://github.com/douglasn5">
   <img src="https://img.shields.io/badge/GitHub-douglasn5-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
-<a href="mailto:douglasti097@gmail.com">
-  <img src="https://img.shields.io/badge/douglasti097@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
+<img src="https://img.shields.io/badge/douglasti097@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 <img src="https://img.shields.io/badge/Aberto%20a%20oportunidades-26D0CE?style=for-the-badge&logo=target&logoColor=white">
 
 </div>
@@ -185,8 +181,8 @@ da Inteligência Artificial Generativa
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=douglasn5&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=douglasn5&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=douglasn5&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=86400"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=douglasn5&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
 
 <br>
 

@@ -73,7 +73,7 @@ Atualmente meu foco é continuar construindo uma base sólida como desenvolvedor
 
 **Cloud & Outros**
 
-<img src="https://skillicons.dev/icons?i=oracle" />
+<img src="https://img.shields.io/badge/Oracle%20Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
 
 </div>
 

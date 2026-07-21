@@ -1,94 +1,74 @@
-<!--
-  ██████╗  ██████╗ ██╗   ██╗ ██████╗ ██╗      █████╗ ███████╗
-  ██╔══██╗██╔═══██╗██║   ██║██╔════╝ ██║     ██╔══██╗██╔════╝
-  ██║  ██║██║   ██║██║   ██║██║  ███╗██║     ███████║███████╗
-  ██║  ██║██║   ██║██║   ██║██║   ██║██║     ██╔══██║╚════██║
-  ██████╔╝╚██████╔╝╚██████╔╝╚██████╔╝███████╗██║  ██║███████║
-  ╚═════╝  ╚═════╝  ╚═════╝  ╚═════╝ ╚══════╝╚═╝  ╚═╝╚══════╝
-
-  Welcome to Douglas Israel's GitHub
--->
-
 <div align="center">
 
-# 👋 Olá! Eu sou o Douglas Israel
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A2980,100:26D0CE&height=220&section=header&text=Douglas%20Israel&fontSize=55&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Desenvolvedor%20em%20forma%C3%A7%C3%A3o%20%7C%20Cloud%20%7C%20Python%20%7C%20JavaScript&descAlignY=55&descSize=18" width="100%"/>
 
-### 💻 Desenvolvedor em formação | ☁️ Cloud | 🐍 Python | 🌐 Web
-
-<p>
-  <em>
-    Transformando ideias em código, aprendendo continuamente
-    e construindo projetos para evoluir como desenvolvedor.
-  </em>
-</p>
+<a href="https://cursos.alura.com.br/user/dbz10ssj5">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=26D0CE&center=true&vCenter=true&width=600&lines=Transformando+ideias+em+c%C3%B3digo+%F0%9F%92%BB;Aprendendo+Cloud+%26+Oracle+Infrastructure+%E2%98%81%EF%B8%8F;Sempre+evoluindo+como+dev+%F0%9F%9A%80" alt="Typing SVG" />
+</a>
 
 <br>
 
 <a href="https://github.com/douglasn5">
   <img src="https://img.shields.io/badge/GitHub-douglasn5-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
-
 <a href="mailto:douglasn5.dev@gmail.com">
   <img src="https://img.shields.io/badge/E--mail-Contato-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
+<img src="https://img.shields.io/badge/Aberto%20a%20oportunidades-26D0CE?style=for-the-badge&logo=target&logoColor=white">
 
 </div>
 
----
+<br>
 
-<div align="center">
+## 👨‍💻 Sobre mim
 
-## 🕹️ Minha jornada no código
-
-![Pac-Man](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
----
-
-# 👨‍💻 Sobre mim
-
-Sou um desenvolvedor em formação apaixonado por tecnologia e por transformar problemas em soluções através do código.
+Sou um desenvolvedor em formação, apaixonado por tecnologia e por transformar problemas em soluções através do código.
 
 Estou constantemente estudando, praticando e desenvolvendo projetos para aprimorar minhas habilidades em programação, desenvolvimento web, dados, inteligência artificial e computação em nuvem.
 
-Atualmente, meu foco é continuar construindo uma base sólida como desenvolvedor e expandir meus conhecimentos através de projetos práticos e experiências reais.
-
-### 🚀 Atualmente focado em:
-
-- 🐍 Desenvolvimento com **Python**
-- 🟨 Programação com **JavaScript**
-- 🌐 Desenvolvimento **Web**
-- 🗄️ Bancos de dados e **SQL**
-- ☁️ Computação em nuvem e **Oracle Cloud Infrastructure**
-- 🤖 Inteligência Artificial e IA Generativa
-- 📚 Aprendizado contínuo e desenvolvimento de projetos
+Atualmente meu foco é continuar construindo uma base sólida como desenvolvedor e expandir meus conhecimentos através de projetos práticos e experiências reais.
 
 ---
 
-# 🛠️ Tecnologias & Ferramentas
+### 🎓 Formação
+
+- **Análise e Desenvolvimento de Sistemas** *(em andamento)*
+
+---
+
+### 🎯 Áreas de interesse
+
+- Cloud Computing (Oracle Cloud Infrastructure)
+- Desenvolvimento Web & Back-end
+- Inteligência Artificial Generativa
+- Suporte técnico N1/N2, Redes e Active Directory
+
+---
+
+
+## 🛠️ Tecnologias & Ferramentas
 
 <div align="center">
 
-### 💻 Linguagens
+**Linguagens**
 
 <img src="https://skillicons.dev/icons?i=python,javascript,html,css" />
 
 <br><br>
 
-### 🗄️ Dados & Banco de Dados
+**Dados & Banco de Dados**
 
 <img src="https://skillicons.dev/icons?i=mysql,postgresql" />
 
 <br><br>
 
-### 🔧 Ferramentas
+**Ferramentas**
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 
 <br><br>
 
-### ☁️ Cloud & Outros
+**Cloud & Outros**
 
 <img src="https://skillicons.dev/icons?i=oracle" />
 
@@ -96,191 +76,112 @@ Atualmente, meu foco é continuar construindo uma base sólida como desenvolvedo
 
 ---
 
-# 🚀 Projetos em destaque
+## 🌟 Projetos em destaque
 
-<div align="center">
+> **[EnergiAI](https://github.com/douglasn5/EnergiAI)**
+> Projeto voltado à utilização de Inteligência Artificial e análise de dados aplicada ao consumo de energia elétrica.
 
-<table>
-<tr>
+> **[appsaude](https://github.com/douglasn5/appsaude)**
+> Aplicativo Ionic voltado à área de saúde, com foco em aplicação prática e gerenciamento de informações (vacinas contra Covid).
 
-<td width="50%">
+> **[Amigo Secreto](https://github.com/douglasn5)**
+> Aplicação para realizar sorteios de Amigo Secreto de forma simples e prática.
 
-<h3>⚡ EnergiAI</h3>
-
-<p>
-Projeto voltado à utilização de Inteligência Artificial
-e análise de dados aplicada ao consumo de energia elétrica.
-</p>
-
-<a href="https://github.com/douglasn5/EnergiAI">
-<img src="https://img.shields.io/badge/Ver%20repositório-181717?style=for-the-badge&logo=github">
-</a>
-
-</td>
-
-<td width="50%">
-
-<h3>🏥 appsaude</h3>
-
-<p>
-Projeto relacionado à área de saúde, desenvolvido
-com foco em aplicação prática e gerenciamento de informações.
-</p>
-
-<a href="https://github.com/douglasn5/appsaude">
-<img src="https://img.shields.io/badge/Ver%20repositório-181717?style=for-the-badge&logo=github">
-</a>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%">
-
-<h3>🎁 Amigo Secreto</h3>
-
-<p>
-Aplicação desenvolvida para realizar sorteios de
-Amigo Secreto de maneira simples e prática.
-</p>
-
-<a href="https://github.com/douglasn5">
-<img src="https://img.shields.io/badge/Ver%20no%20GitHub-181717?style=for-the-badge&logo=github">
-</a>
-
-</td>
-
-<td width="50%">
-
-<h3>📦 Sistema de Estoque</h3>
-
-<p>
-Projeto desenvolvido para gerenciamento e controle
-de produtos, trabalhando conceitos de CRUD e banco de dados.
-</p>
-
-<a href="https://github.com/douglasn5">
-<img src="https://img.shields.io/badge/Ver%20no%20GitHub-181717?style=for-the-badge&logo=github">
-</a>
-
-</td>
-
-</tr>
-</table>
-
-</div>
+> **[Sistema de Estoque](https://github.com/douglasn5)**
+> Sistema de gerenciamento e controle de produtos em Python, trabalhando conceitos de CRUD e banco de dados.
 
 ---
 
-# 🏆 Certificações
+## 🏆 Certificações
 
 <div align="center">
 
 <table>
-
 <tr>
 
 <td align="center" width="25%">
 
-### ☁️ Oracle
+<img src="assets/oracle-badge.png" width="140"><br>
 
-<img src="https://images.credly.com/images/8e9f2c1e-4a44-4a0c-9c2f-3a9d3f7c5d6b/image.png" width="120">
+**Oracle Cloud Infrastructure**
+**Foundations Associate**
+
+*Emitido em 26/06/2026*
 
 <br>
 
-**Oracle Cloud Infrastructure**
-
-**Foundations Associate**
-
-<br><br>
-
 <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=685FDFE1CEAFC400DE41966FA1511E4C028A2DB255A5CD3AF8C489C81C44ED26">
-
 <img src="https://img.shields.io/badge/Ver%20certificado-Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">
-
 </a>
 
 </td>
 
 <td align="center" width="25%">
 
-### 💻 Alura
+☁️ **Oracle One / Alura**
 
 **Lógica de Programação**
+Mergulhe em programação com JavaScript
 
-Mergulhe em programação  
-com JavaScript
+*Concluído em 28/07/2025*
 
 <br><br>
 
 <a href="https://cursos.alura.com.br/user/dbz10ssj5/course/logica-programacao-mergulhe-programacao-javascript/certificate">
-
 <img src="https://img.shields.io/badge/Ver%20certificado-Alura-0077B5?style=for-the-badge">
-
 </a>
 
 </td>
 
 <td align="center" width="25%">
 
-### 📡 Alura
+📡 **Oracle One / Alura**
 
 **Challenge Telecom X**
+Análise de evasão de clientes – Parte 2
 
-Parte 2
+*Concluído em 09/03/2026*
 
-<br><br><br>
+<br><br>
 
 <a href="https://cursos.alura.com.br/user/dbz10ssj5/course/challenge-telecom-x/certificate">
-
 <img src="https://img.shields.io/badge/Ver%20certificado-Alura-0077B5?style=for-the-badge">
-
 </a>
 
 </td>
 
 <td align="center" width="25%">
 
-### 🤖 Alura
+🤖 **Oracle One / Alura**
 
 **IA: Explorando o Potencial**
+da Inteligência Artificial Generativa
 
-da Inteligência Artificial  
-Generativa
+*Concluído em 08/08/2025*
 
 <br><br>
 
 <a href="https://cursos.alura.com.br/user/dbz10ssj5/course/ia-explorando-potencial-inteligencia-artificial-generativa/certificate">
-
 <img src="https://img.shields.io/badge/Ver%20certificado-Alura-0077B5?style=for-the-badge">
-
 </a>
 
 </td>
 
 </tr>
-
 </table>
 
 </div>
 
 ---
 
-# 📊 Estatísticas do GitHub
+## 📊 Estatísticas do GitHub
 
 <div align="center">
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=douglasn5&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=douglasn5&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
 
-</div>
-
 <br>
-
-<div align="center">
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=douglasn5&theme=tokyonight&hide_border=true"/>
 
@@ -288,7 +189,7 @@ Generativa
 
 ---
 
-# 📈 Minha atividade
+## 📈 Minha atividade
 
 <div align="center">
 
@@ -298,39 +199,57 @@ Generativa
 
 ---
 
-# 🐍 O Pac-Man está com fome...
+## 👻 Pac-Man está com fome...
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Pac-Man animation"/>
+<!-- pacman -->
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/douglasn5/douglasn5/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/douglasn5/douglasn5/output/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/douglasn5/douglasn5/output/pacman-contribution-graph.svg">
+</picture>
+
+*(a imagem só aparece depois que o GitHub Action rodar pela 1ª vez — veja as instruções que te mandei junto com este README)*
 
 </div>
 
 ---
 
-# 📚 Minha jornada
+## 📚 Minha jornada
 
 ```text
-                    ┌─────────────────────────┐
-                    │       APRENDER          │
-                    └────────────┬────────────┘
-                                 │
-                                 ▼
-                    ┌─────────────────────────┐
-                    │       PRATICAR          │
-                    └────────────┬────────────┘
-                                 │
-                                 ▼
-                    ┌─────────────────────────┐
-                    │       CONSTRUIR         │
-                    └────────────┬────────────┘
-                                 │
-                                 ▼
-                    ┌─────────────────────────┐
-                    │       EVOLUIR           │
-                    └────────────┬────────────┘
-                                 │
-                                 └───────────────┐
-                                                 │
-                                                 ▼
-                                          🔄 REPETIR
+┌─────────────────────────┐
+│       APRENDER          │
+└────────────┬────────────┘
+             │
+             ▼
+┌─────────────────────────┐
+│       PRATICAR          │
+└────────────┬────────────┘
+             │
+             ▼
+┌─────────────────────────┐
+│       CONSTRUIR         │
+└────────────┬────────────┘
+             │
+             ▼
+┌─────────────────────────┐
+│       EVOLUIR           │
+└────────────┬────────────┘
+             │
+             └───────────────┐
+                             │
+                             ▼
+                      🔄 REPETIR
+```
+
+---
+
+<div align="center">
+
+**Estou sempre aberto para colaborações, networking e novas oportunidades!**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:26D0CE,100:1A2980&height=120&section=footer"/>
+
+</div>

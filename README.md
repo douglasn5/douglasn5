@@ -208,8 +208,6 @@ da Inteligência Artificial Generativa
     <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/douglasn5/douglasn5/output/pacman-contribution-graph.svg">
 </picture>
 
-*(a imagem só aparece depois que o GitHub Action rodar pela 1ª vez — veja as instruções que te mandei junto com este README)*
-
 </div>
 
 ---

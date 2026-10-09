@@ -81,7 +81,7 @@ Atualmente meu foco é continuar construindo uma base sólida como desenvolvedor
 
 ## 🌟 Projetos em destaque
 
-> **[EnergiAI](https://github.com/douglasn5/EnergiAI)**
+> **[EnergiAI](https://github.com/No-Country-simulation/hackaton_energiai_team03)**
 > Projeto voltado à utilização de Inteligência Artificial e análise de dados aplicada ao consumo de energia elétrica.
 
 > **[appsaude](https://github.com/douglasn5/appsaude)**
